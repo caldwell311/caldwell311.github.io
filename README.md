@@ -18,15 +18,23 @@ Syntax highlighted code block
 ##### H5
 ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+## Horizantal Rules
+Three or more...
 
-Alt-H1
-======
+---
 
-Alt-H2
-------
+Hyphens
 
-##Emphasis
+***
+
+Asterisks
+
+___
+
+Underscores
+
+
+## Emphasis
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -36,7 +44,16 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-#Lists
+## Blockquotes
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+
+## Lists
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
@@ -56,15 +73,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 
 [Link](url) and ![Image](src)
-[Join CSRP DISCORD https://discord.gg/fnHPV4n5fK
-```
+[Our Discord](https://discord.gg/qG8kvBSyG7)
+[LSPD Discord Link](https://discord.gg/bSqVrmHNAp)
+[SAST Discord](https://discord.gg/MKcHkvW9Sc)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caldwell311/caldwell311.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
