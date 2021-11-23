@@ -26,13 +26,15 @@ Alt-H1
 Alt-H2
 ------
 
-- Bulleted
-- List
+##Emphasis
 
-1. Numbered
-2. List
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-**Bold** and _Italic_ and `Code` text
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
 
 [Link](url) and ![Image](src)
 ```
